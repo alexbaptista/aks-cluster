@@ -1,4 +1,4 @@
-# aks-argocd
+# aks-cluster
 Proof of Concept for AKS Cluster
 
 > **_NOTE:_** Azure Pipelines (Azure DevOps) being used by template - https://github.com/alexbaptista/azuredevops-iac-template-pipeline
