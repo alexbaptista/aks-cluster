@@ -8,23 +8,15 @@ Proof of Concept for AKS Cluster
 ### **Folder structure**
 
 ```
-├── argocd
-│   └── v2.4.12
-│       └── manifests
-│           ├── install.yaml
-│           └── namespace.yaml
+.
 ├── azure-pipelines.yaml
 └── terraform
     ├── README.md
     ├── azurerm_client_config.tf
     ├── azurerm_key_vault.tf
-    ├── azurerm_key_vault_secret.tf
     ├── azurerm_kubernetes_cluster.tf
     ├── azurerm_log_analytics_workspace.tf
     ├── azurerm_resource_group.tf
-    ├── kubectl_file_documents.tf
-    ├── kubectl_manifest.tf
-    ├── kubernetes_secret.tf
     ├── main.tf
     ├── outputs.tf
     ├── random_string.tf
