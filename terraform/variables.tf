@@ -68,7 +68,7 @@ variable "aks_settings" {
     role_based_access_control_enabled = bool
   })
   default = {
-    api_server_authorized_ip_ranges = ["177.33.139.44/32", "168.61.176.250/32"]
+    api_server_authorized_ip_ranges = ["177.33.139.44/32", "40.87.28.89/32"]
     azure_policy_enabled            = true
     dns_prefix                      = "k8s"
     identity = {
