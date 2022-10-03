@@ -127,7 +127,7 @@ variable "keyvault_settings" {
     network_acls = {
       bypass         = "AzureServices"
       default_action = "Deny"
-      ip_rules       = ["177.33.139.44/32", "168.61.176.250/32"]
+      ip_rules       = ["177.33.139.44/32", "40.87.28.89/32"]
     }
     sku_name                   = "standard"
     soft_delete_retention_days = 7
