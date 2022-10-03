@@ -141,6 +141,7 @@ variable "tags" {
     "Repository"   = "https://github.com/alexbaptista/azuredevops-iac-template-pipeline"
     "Environment"  = "Infra"
     "MaintainedBy" = "Terraform"
+    "Purpose"      = "Call"
   }
   description = "Relation from TAGS to include in resources"
 }
