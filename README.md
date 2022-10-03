@@ -23,7 +23,7 @@ Proof of Concept for AKS Cluster
     └── variables.tf
 ```
 
-* **[terraform/*](terraform)**: This folder contains Terraform files. The documentation can be acessed [here](terraform/README.md)
+* **[terraform/*](terraform)**: This folder contains Terraform files. The documentation can be accessed [here](terraform/README.md)
 
 ## **What does it will create ?**
 
@@ -35,7 +35,7 @@ Proof of Concept for AKS Cluster
 
 * **Get Access AKS**: https://learn.microsoft.com/en-us/azure/aks/manage-azure-rbac#use-azure-rbac-for-kubernetes-authorization-with-kubectl
 
-* **Run portfoward to access ArgoCD**: https://argo-cd.readthedocs.io/en/stable/getting_started/#port-forwarding
+* **Run port forward to access ArgoCD**: https://argo-cd.readthedocs.io/en/stable/getting_started/#port-forwarding
 
 ## **Notes**
 
